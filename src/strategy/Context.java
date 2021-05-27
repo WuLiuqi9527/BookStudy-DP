@@ -7,7 +7,7 @@ public class Context {
         this.strategy = strategy;
     }
 
-    public void operate(){
+    public void operate() {
         this.strategy.operate();
     }
 }

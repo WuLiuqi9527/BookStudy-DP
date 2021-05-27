@@ -1,6 +1,6 @@
-package Proxy;
+package proxy;
 
-public class WangPo implements KindWomen{
+public class WangPo implements KindWomen {
     private KindWomen kindWomen;
 
     public WangPo() {

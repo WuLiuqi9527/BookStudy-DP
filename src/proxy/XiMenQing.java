@@ -1,4 +1,4 @@
-package Proxy;
+package proxy;
 
 /**
  * 通过代理人实现了某种目的

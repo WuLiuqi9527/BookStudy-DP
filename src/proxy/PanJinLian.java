@@ -1,6 +1,6 @@
-package Proxy;
+package proxy;
 
-public class PanJinLian implements KindWomen{
+public class PanJinLian implements KindWomen {
     @Override
     public void makeEyesWithMan() {
         System.out.println("潘金莲在抛媚眼...");
