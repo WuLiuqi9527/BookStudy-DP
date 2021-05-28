@@ -1,5 +1,8 @@
 package multition;
 
+/**
+ * 多例模式【Multition Pattern】
+ */
 @SuppressWarnings("all")
 public class Minister {
 

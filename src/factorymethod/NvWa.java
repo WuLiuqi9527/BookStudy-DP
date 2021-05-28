@@ -1,5 +1,8 @@
 package factorymethod;
 
+/**
+ * 工厂方法模式【Factory Method Pattern】
+ */
 public class NvWa {
 
     public static void main(String[] args) {

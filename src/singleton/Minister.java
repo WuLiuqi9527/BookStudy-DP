@@ -1,6 +1,8 @@
 package singleton;
 
 /**
+ * 单例模式【Singleton Pattern】
+ * <p>
  * 忽略警告 -> 不应该通过类实例访问静态成员
  */
 @SuppressWarnings("all")

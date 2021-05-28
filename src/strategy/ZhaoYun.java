@@ -1,6 +1,8 @@
 package strategy;
 
 /**
+ * 策略模式【Strategy Pattern】
+ * <p>
  * 策略模式的好处就是：体现了高内聚低耦合的特性
  * 还有一个就是扩展性，也就是 OCP 原则，策略类可以继续增加下去，只要修改 Context.java 就可以了
  */
