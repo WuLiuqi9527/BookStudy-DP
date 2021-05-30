@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 import java.util.HashMap;
 import java.util.Map;

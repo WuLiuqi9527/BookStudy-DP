@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 public interface IUserInfo {
     String getUserName();

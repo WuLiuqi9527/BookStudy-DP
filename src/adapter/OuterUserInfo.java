@@ -1,4 +1,4 @@
-package Adapter;
+package adapter;
 
 import java.util.Map;
 
